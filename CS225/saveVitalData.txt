@@ -1,0 +1,3 @@
+Heart Rate    Respiratory    SpO2       BP Systolic  BP Diastolic  Temperature
+
+40            0             0         10          10            90
