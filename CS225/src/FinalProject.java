@@ -6,6 +6,12 @@
  * Class Description: This class is for the main frame of user interface and also 
  * contains the main method, banch of listeners, the panels and timer. This class 
  * is regarded as the soul of this project. 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * Today, I am using it for testing GitHub
 */
 import java.awt.BorderLayout;
 import java.awt.Dimension;
